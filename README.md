@@ -1,4 +1,4 @@
-# Algorithm PA#1
+# Algorithms PA#1
 **Author**: Chia-Wen Fan  
 **Date**: 2024/09/29
 
